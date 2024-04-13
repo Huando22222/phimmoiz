@@ -1,0 +1,1 @@
+<p>Mã của bạn là: <strong>{{ $code }}</strong></p>
